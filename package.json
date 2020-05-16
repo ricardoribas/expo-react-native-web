@@ -1,0 +1,16 @@
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ],
+    "nohoist": []
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "resolutions": {},
+  "author": "ricardoribas",
+  "license": "ISC"
+}
